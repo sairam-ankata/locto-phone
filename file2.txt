@@ -2,4 +2,6 @@ this is the file to learn about
 the merge conflicts
 using the m1 and master branches and add them
 git
-
+bot
+mot
+tot
