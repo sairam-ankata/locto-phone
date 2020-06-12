@@ -4,9 +4,9 @@ using the master and m1 branches and add them
 git 
 mobx
 django
-puthon
+python
+cortana
 c lang
 c++
 java
-flex
-grow
+sem
