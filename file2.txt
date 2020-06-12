@@ -3,5 +3,3 @@ the merge conflicts
 using the m1 and master branches and add them
 git
 bot
-mot
-tot
