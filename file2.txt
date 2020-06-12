@@ -1,7 +1,6 @@
 this is the file to learn about
-the merge conflicts
+the merge conflicts and adding to that here are some technologies to it
 using the m1 and master branches and add them
 git
 bot
 mot
-tot
