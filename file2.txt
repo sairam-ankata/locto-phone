@@ -1,7 +1,7 @@
-this is the file to learn about 
+this is the file to learn about
 the merge conflicts
 using the master and m1 branches and add them
-git 
+git
 mobx
 django
 puthon
@@ -10,3 +10,5 @@ c++
 java
 flex
 grow
+knowledge
+is the devine
