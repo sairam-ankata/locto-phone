@@ -2,13 +2,4 @@ this is the file to learn about
 the merge conflicts
 using the master and m1 branches and add them
 git
-mobx
-django
-puthon
-c lang
-c++
-java
-flex
-grow
-knowledge
-is the devine
+
